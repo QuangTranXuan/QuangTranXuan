@@ -1,8 +1,8 @@
-👋 Hi, I’m Quang Tran (Andrey)
-👀 I’m interested in Backend Development, Cloud Engineering, Personal Improvement, History, Human Nature
-🌱 I’m currently learning Cloud Engineering and Microservices
-📫 Reach me at tranxuanquangls@gmail.com
-⚡ Fun fact: I always try to learn something new everyday
+-👋 Hi, I’m Quang Tran (Andrey)
+-👀 I’m interested in Backend Development, Cloud Engineering, Personal Improvement, History, Human Nature
+-🌱 I’m currently learning Cloud Engineering and Microservices
+-📫 Reach me at tranxuanquangls@gmail.com
+-⚡ Fun fact: I always try to learn something new everyday
 
 <!--
 **QuangTranXuan/QuangTranXuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
