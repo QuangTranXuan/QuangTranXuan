@@ -1,12 +1,12 @@
--👋 Hi, I’m Quang Tran (Andrey)
+👋 Hi, I’m Quang Tran (Andrey)
 
--👀 I’m interested in Backend Development, Cloud Engineering, Personal Improvement, History, Human Nature
+👀 I’m interested in Backend Development, Cloud Engineering, Personal Improvement, History, Human Nature
 
--🌱 I’m currently learning Cloud Engineering and Microservices
+🌱 I’m currently learning Cloud Engineering and Microservices
 
--📫 Reach me at tranxuanquangls@gmail.com
+📫 Reach me at tranxuanquangls@gmail.com
 
--⚡ Fun fact: I always try to learn something new everyday
+⚡ Fun fact: I always try to learn something new everyday
 
 
 <!--
